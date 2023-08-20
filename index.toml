@@ -5,6 +5,14 @@ file = "config/fightorflight-common-config.json5"
 hash = "cc33c98f012028ad98c064dc60ea5a7011af3cccb581cfd91b7d79a82b712cf3"
 
 [[files]]
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "mods/advanced-tooltips.pw.toml"
 hash = "15f0549ae8e1d2dcca3c5208b76bb52f9f6089b8f0dc44fda3c29725d36f4ee2"
 metafile = true
