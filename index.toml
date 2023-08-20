@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fightorflight-common-config.json5"
+hash = "cc33c98f012028ad98c064dc60ea5a7011af3cccb581cfd91b7d79a82b712cf3"
+
+[[files]]
 file = "gitattributes.txt"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
@@ -272,3 +276,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "packwizignore.txt"
+hash = "8eb5aacf1e96239f43be52fa7c885c4b15381689363779d23951f8c98827fab2"
