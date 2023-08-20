@@ -1,12 +1,12 @@
-name = "Edrobot ' S Modified Cobblemon Lite"
+name = "Edrobot Minecraft Mod Pack"
 author = "Edrobot"
-version = "0.5"
+version = ".5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d57c920434d9ffd8d8e20cb71c6e347b3467aac45b753f18bcdf282bc5425f55"
+hash = "9637c46adcefbc7e8d316d0f848f59f05eed778fb5a771b3e656d7812491192a"
 
 [versions]
 fabric = "0.14.22"
