@@ -78,6 +78,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "46c7600f397acdbf3af07ce42e58fec04616f7f73da9724f0ab4f0f70e3c994f"
 metafile = true
@@ -98,8 +103,13 @@ hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "d0c065ccb94e1164816f5143b58ef5cd22087e1933d2ade14fb35ea7ee7eec93"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
+hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
 metafile = true
 
 [[files]]
