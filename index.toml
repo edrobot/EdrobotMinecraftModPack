@@ -53,6 +53,11 @@ hash = "071d3136a96f205bc989c5bcb9b7ec74057f2f0f2a9f1500c18835f07b2a8cbc"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "0b7fedd448e97629a7ec904bfeaf5e55fd77ab9e51fbeed940521460fd60dd56"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
