@@ -13,11 +13,6 @@ file = "gitignore.txt"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
-file = "mods/accelerated-decay.pw.toml"
-hash = "4d09afbccd4c5469b88602e12add007210bd3578c6313b2c8138937d1d547caf"
-metafile = true
-
-[[files]]
 file = "mods/advanced-tooltips.pw.toml"
 hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
 metafile = true
@@ -309,4 +304,4 @@ metafile = true
 
 [[files]]
 file = "packwizignore.txt"
-hash = "8eb5aacf1e96239f43be52fa7c885c4b15381689363779d23951f8c98827fab2"
+hash = "ccbea5e0cf1fb020a695e2b379825f1adc5b2d16eefc41c48e8de48b9f8a0d43"
