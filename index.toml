@@ -13,6 +13,11 @@ file = "gitignore.txt"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "4d09afbccd4c5469b88602e12add007210bd3578c6313b2c8138937d1d547caf"
+metafile = true
+
+[[files]]
 file = "mods/advanced-tooltips.pw.toml"
 hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
 metafile = true
@@ -64,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
+hash = "43fa247b9adb68ddd3fe4b683fd5c9fbf97f897e87bf0d35957cfb3fff63b18f"
 metafile = true
 
 [[files]]
@@ -270,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
+metafile = true
+
+[[files]]
+file = "mods/treeaxe-fabric.pw.toml"
+hash = "b56610ce6a0e1594315b3878796bef0dcc1fa5a6f888e884265f53d11fa6c6a2"
 metafile = true
 
 [[files]]
