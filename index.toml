@@ -43,6 +43,11 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "68f44bc2e787f16f3ab5cf44d8716e6aa3048fd2546a2f4b7ada6e4b64307bab"
 metafile = true
@@ -73,8 +78,23 @@ hash = "f2c9da6aaae4ee800ccbb665ccbcad4986ad06deef78cce1ddea9e3a464402e0"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-info.pw.toml"
+hash = "16fdb5cca446b48d9d97ee72411038e082f844547219051eabcb8d2ed9c42e33"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-unimplemented-items.pw.toml"
+hash = "61066bf2904db28139f06ecf775f790d448ec984621270d9c89dac07df5c3814"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "83614dafb16c2e29f08dfcf8f6105ed8bc7450d1e8b3ad078282504e9c44ae81"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "010118d84aa094ee2ea44b0be4bb8055ac44a7b7dc6c299f9c5bc7aef493b197"
 metafile = true
 
 [[files]]
@@ -103,6 +123,11 @@ hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
 metafile = true
@@ -114,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
 
 [[files]]

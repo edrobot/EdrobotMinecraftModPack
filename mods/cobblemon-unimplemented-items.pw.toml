@@ -1,0 +1,13 @@
+name = "Cobblemon Unimplemented Items"
+filename = "cobblemon-unimplementeditems-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pSd78c83/versions/9qd7YUKu/cobblemon-unimplementeditems-1.0.0.jar"
+hash-format = "sha1"
+hash = "6559157423a1141dd3de75d799206760bfaa0bf0"
+
+[update]
+[update.modrinth]
+mod-id = "pSd78c83"
+version = "9qd7YUKu"
