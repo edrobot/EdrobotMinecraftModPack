@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "d9023cc86074ad3e3fec8a7a5ec8ad456fcac04ebd1342ff803d0551fa7d8e56"
+hash = "01c551bf671ad2d977e59dc6e69c6cbf9f91c7343262e3f8358f7524f863c7fa"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-unimplemented-items.pw.toml"
-hash = "61066bf2904db28139f06ecf775f790d448ec984621270d9c89dac07df5c3814"
+hash = "159c30b62858303cc736bdf46e26ccf91f62751cce03afd01e3467a5169a734e"
 metafile = true
 
 [[files]]
@@ -123,12 +123,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "8224d983237943c65def55f1e4761088ba07c19039cc5afa3fc89606937f1d4b"
+hash = "6251305d7e5815fdf5f665f50691e3a1dc44fd3050241d693937b8ff67beb6d4"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
+hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
+hash = "61ce356a17cb6761b5ebf5a7bb2adf5932b384ec70957e723fd829f3273f21be"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "88c9f6366a1f91660d72f2e32c4c19fc1d8c0ac9e4843d9373b7e43a1272a46d"
+hash = "91038892b40c499a4e4ebf4856246f376089034824bba995b0ec2306014110f8"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "e2ab3bea2174d0e8ccc193894e81d8279b375e45823c29b3bee915938b03f801"
+hash = "8f0e7dc373e246acdc6e3901f55907138bc6319c06cbb061ae13c1288e4e5fe3"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
+hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
 metafile = true
 
 [[files]]
@@ -343,17 +343,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5415f59e16f3bdee930ff6d65dff9ce99bc7d5a799d6e6b3ae9094bd0de85f63"
+hash = "73f13f0d83d1dbc6ff70dc2aed6eb7cd44799a011fe17ae419bd939ff074a7fc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ffe01419467a13b32aba09f01ae33642f8c44a7e58f94e82958faee7c5ecb619"
+hash = "d68aacd8d4985bf47e6123dc0dba4c22dc331071690d0baab5bfa926199e44ba"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7e6ed0957f98c3fed699fd9f8e5528e7dd6e6ec4e5b44f6d67f2aacbc3e557b6"
+hash = "2d1250a1cf3872e5569b1f2f83745835661161e1e75befeff6ed1b577334d788"
 metafile = true
 
 [[files]]
