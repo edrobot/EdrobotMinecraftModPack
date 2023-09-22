@@ -161,11 +161,6 @@ hash = "1c28550134fa3fbaa8893ecf1eef52d525c337649ba190f07ea2eeeacd556156"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -358,9 +353,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/alphabet-soup.pw.toml"
 hash = "f5fe07e344832ff6b74c50844d55f21a2bc885256b4072148d81412f0bf95ea0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/from-the-fog.pw.toml"
-hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
 metafile = true
