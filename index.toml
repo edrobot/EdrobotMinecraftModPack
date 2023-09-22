@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapack/from-the-fog.pw.toml"
-hash = "5e2b423d28a93e5ebf774bf4ce1ef66c7af1d6a76594969f385b66c67fbe430a"
-metafile = true
-
-[[files]]
 file = "mods/advanced-tooltips.pw.toml"
 hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
 metafile = true
@@ -356,16 +351,6 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "resourcepack/from-the-fog.pw.toml"
-hash = "5e2b423d28a93e5ebf774bf4ce1ef66c7af1d6a76594969f385b66c67fbe430a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/alphabet-soup.pw.toml"
 hash = "f5fe07e344832ff6b74c50844d55f21a2bc885256b4072148d81412f0bf95ea0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/from-the-fog.pw.toml"
-hash = "5e2b423d28a93e5ebf774bf4ce1ef66c7af1d6a76594969f385b66c67fbe430a"
 metafile = true
