@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = ".gitignore.txt"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
-file = ".packwizignore.txt"
-hash = "ccbea5e0cf1fb020a695e2b379825f1adc5b2d16eefc41c48e8de48b9f8a0d43"
-
-[[files]]
-file = "config/fightorflight-common-config.json5"
-hash = "cc33c98f012028ad98c064dc60ea5a7011af3cccb581cfd91b7d79a82b712cf3"
-
-[[files]]
 file = "mods/advanced-tooltips.pw.toml"
 hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
 metafile = true
