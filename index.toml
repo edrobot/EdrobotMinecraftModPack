@@ -375,3 +375,8 @@ metafile = true
 file = "resourcepacks/alphabet-soup.pw.toml"
 hash = "f5fe07e344832ff6b74c50844d55f21a2bc885256b4072148d81412f0bf95ea0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/from-the-fog.pw.toml"
+hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
+metafile = true
