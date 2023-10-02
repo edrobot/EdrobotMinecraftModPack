@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "94a13d891d1aac2a4c8c8feb45ed4e7f1ba9584a26eefe609a5c519abdf3acfd"
+hash = "43b6e9c1045dba84170a2da3dbe494bd8df2e3fe5307dff7660e24f627f0e6a9"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "be7b1579cd4e666d17e0a5bb81d3d224de2856a700871a19c05f28866137ef9e"
+hash = "811dc769718ca23992e7d88f59b260687a798a0865a054711bdc5bee9df7acd8"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "26aff7ca542add39d58037beb736f1cec8080deacfc25232881658a9e2de328d"
+hash = "c7d59ee05177036078a6affd7b6b3832519fdb53dc37a86e01e2e936244d9970"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "17a71bb47b2ec34ee3ec72b14903c5568f51db1bca1021099d0f2ff47a8a12ac"
+hash = "b1b5b68b3e6c34985d8443e32061a55e7600baf88d6204474822c88a3c0452be"
 metafile = true
 
 [[files]]
