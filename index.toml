@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-unimplemented-items.pw.toml"
-hash = "159c30b62858303cc736bdf46e26ccf91f62751cce03afd01e3467a5169a734e"
+hash = "dcc8ff8819fe286fb6a3e939f87018fa08bbde427a31011ff38887eedc9ccbe8"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "d0c065ccb94e1164816f5143b58ef5cd22087e1933d2ade14fb35ea7ee7eec93"
+hash = "50a66db94f5a123517471d8fcbdc0ae012a22a63cf585d78a02acb7837988646"
 metafile = true
 
 [[files]]
