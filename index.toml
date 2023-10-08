@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "43fa247b9adb68ddd3fe4b683fd5c9fbf97f897e87bf0d35957cfb3fff63b18f"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -116,6 +116,11 @@ hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
+file = "mods/dungeonz.pw.toml"
+hash = "91003154e92b63ae201c04427b79f9823069a58745e48dc7516c210f64dd8f30"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "4bc7e08ca0ee0c2f33c1a34690e8c1293af30d3c6fc7f86b44fd5fa84e1aceff"
 metafile = true
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
 
 [[files]]
