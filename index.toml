@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "01c551bf671ad2d977e59dc6e69c6cbf9f91c7343262e3f8358f7524f863c7fa"
+hash = "121e0dcab9fbda6fad27474c2b5de6000f65001d79e13f5856456a79b7cbc2bd"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "50a66db94f5a123517471d8fcbdc0ae012a22a63cf585d78a02acb7837988646"
+hash = "b39f2371f54b93c7fbd8be10f389dccd03b8e0a5d3c828ac8b1789e6ee1a7c2a"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a16799bfb18ad3723165408cc7ca841091497ffd2a4ea31da365017f67846bbf"
+hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "aba002342061cd5da8885c0097816e289fef914342f17a26d2cdc9596a0d58fe"
+hash = "2608260d45b90e6ca0438e8eb5fea8c8f9d95a1f0dd670db7730331f623c2a08"
 metafile = true
 
 [[files]]
